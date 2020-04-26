@@ -34,7 +34,7 @@ function mathButPress(operator){
     decimalClicked = false;
     mathOperator = operator;
     resultVal = "";
-    document.getElementById("entry").value = "";
+    document.getElementById("entry").value = operator;
 }
 
 function equalButPress(num){
