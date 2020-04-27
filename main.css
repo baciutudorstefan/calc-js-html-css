@@ -34,7 +34,7 @@ body {
     padding: 30px;
     margin: 0px auto;
     top: 25%;
-    position: -webkit-sticky;
+    position: relative;
 }
 .numBut{
     height: 59px;
